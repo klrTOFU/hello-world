@@ -1,0 +1,70 @@
+<style>
+  body {
+    border-color: white;
+    border-width: 50px;
+    border-style: solid;
+  }
+  .silver-background {
+    background-color: silver;
+  }
+  
+  img 
+{
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    /*border-color: white;
+    border-width: 10px;
+    border-style: solid;
+  */
+}
+  
+  /*.picture{
+    width: 300px;
+  }
+ */ 
+.list {
+  font-size=10;
+}
+
+#quoteSource {
+  style: italic
+}
+
+</style>
+
+<head>
+<title>James Joyce Tribute Page</title>
+</head>
+
+<body>
+  <div class="silver-background">
+<h1 class="text-center">James Joyce</h1>
+<h3 class="text-center">The Greatest Author of All-Time</h2>
+
+<img class="picture" src="http://www.vol1brooklyn.com/wp-content/uploads/2013/02/James-Joyce.jpeg" alt="James Joyce looking smug">
+<text></text>
+
+
+<p>Here&#39;s a time line of James Joyce&#39;s Life:</p>
+<div class="list">
+<ul>
+<li>James Joyce Born</li>
+<li>Wrote Portrait of an Artist</li>
+<li>Wrote Ulysses</li>
+<li>Wrote Finnigan&#39;s Wake</li>
+<li>Died</li>
+</ul>
+</div>
+
+<p>"I once killed a bar full of people because they said they had never read any of my books."</p>
+
+<div id="quoteSource">
+<p>-drunk James Joyce</p>
+</div>
+<p>If you have time, you should read more about this 
+talented writer and crazy son of a bitch on his <a href="https://en.wikipedia.org/wiki/James_Joyce" target="_blank"></a>
+  </div>
+</body>
+
+<footer>Created By Joe Kausch</footer>
